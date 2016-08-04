@@ -1,0 +1,38 @@
+_repo: The-Argonautica_830
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Seaton, R. C. (Robert Cooper)
+    alias: Seaton, Robert Cooper
+    birthdate: 1853
+    deathdate: 1915
+    gutenberg_agent_id: '34027'
+    url: http://www.gutenberg.org/2009/agents/34027
+creator:
+  author:
+    agent_name: Apollonius, Rhodius
+    aliases:
+    - Apollonius, of Rhodes
+    - Rhodius, Apollonius
+    gutenberg_agent_id: '433'
+    url: http://www.gutenberg.org/2009/agents/433
+    wikipedia: http://en.wikipedia.org/wiki/Apollonius_of_Rhodes
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '1997-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Jason (Greek mythology)'
+- !lcsh 'Argonauts (Greek mythology)'
+- !lcsh 'Medea, consort of Aegeus, King of Athens (Mythological character)'
+- !lcsh 'Classical literature'
+- GITenberg
+title: The Argonautica
+url: http://www.gutenberg.org/ebooks/830
